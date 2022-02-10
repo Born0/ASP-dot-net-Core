@@ -1,0 +1,15 @@
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.exe
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.deps.json
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.runtimeconfig.json
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.dll
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\bin\Debug\net6.0\ref\StringPractice.dll
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.pdb
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.csproj.AssemblyReference.cache
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.AssemblyInfoInputs.cache
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.AssemblyInfo.cs
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.csproj.CoreCompileInputs.cache
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.dll
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\ref\StringPractice.dll
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.pdb
+D:\Work\ASP dot net Core\VS Code\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.genruntimeconfig.cache

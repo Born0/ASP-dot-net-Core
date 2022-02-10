@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EfD1pV8VlRgst06VRE9vqgcHKh8Xh42FYtwhfXIEsyBFdhV75jtOAP2N3BWkIvcGfpfRK+/mGQUN5IkImZvsFg==",
+  "dgSpecHash": "dSIDAQ549ly++C6mm/IM446pxz3Hv7PkbkzbmUYkU+0wrk4H2yfib1+hZmCgL+VIckZCbchBj3aqJNa9WAtToA==",
   "success": true,
-  "projectFilePath": "D:\\Work\\ASP dot net Core 3.1\\Book List using Razor Page\\Book List using Razor Page\\Book List using Razor Page.csproj",
+  "projectFilePath": "D:\\Work\\ASP dot net Core\\Core 3.1\\Book List using Razor Page\\Book List using Razor Page\\Book List using Razor Page.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Borno\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Borno\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.15\\microsoft.aspnetcore.mvc.razor.extensions.3.1.15.nupkg.sha512",
@@ -166,7 +166,8 @@
     "C:\\Users\\Borno\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Borno\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Borno\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Borno\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Borno\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Borno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

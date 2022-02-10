@@ -1,0 +1,10 @@
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Work\ASP dot net Core\Core 3.1\BookList[MVC-Core3.1]\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

@@ -11,9 +11,9 @@ namespace Book_List_using_Razor_Page.Models
         [Key]
         public int BookId { get; set; }
         [Required(ErrorMessage = "Name can't be Empty")]
-        [Display(Name = "Book Name")]
+        [Display(Name = "Name")]
         public string BookName { get; set; }
-        [Display(Name = "Book Author")]
+        [Display(Name = "Author")]
         public string BookAuthor { get; set; }
         public string ISBN { get; set; }
     }

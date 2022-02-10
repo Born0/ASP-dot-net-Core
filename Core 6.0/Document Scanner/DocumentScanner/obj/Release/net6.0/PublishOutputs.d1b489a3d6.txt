@@ -1,0 +1,7 @@
+E:\Work\ASP dot net Core\Core 6.0\Document Scanner\DocumentScanner\obj\Release\net6.0\PubTmp\Out\DocumentScanner.exe
+E:\Work\ASP dot net Core\Core 6.0\Document Scanner\DocumentScanner\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Work\ASP dot net Core\Core 6.0\Document Scanner\DocumentScanner\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Work\ASP dot net Core\Core 6.0\Document Scanner\DocumentScanner\obj\Release\net6.0\PubTmp\Out\DocumentScanner.dll
+E:\Work\ASP dot net Core\Core 6.0\Document Scanner\DocumentScanner\obj\Release\net6.0\PubTmp\Out\DocumentScanner.deps.json
+E:\Work\ASP dot net Core\Core 6.0\Document Scanner\DocumentScanner\obj\Release\net6.0\PubTmp\Out\DocumentScanner.runtimeconfig.json
+E:\Work\ASP dot net Core\Core 6.0\Document Scanner\DocumentScanner\obj\Release\net6.0\PubTmp\Out\DocumentScanner.pdb

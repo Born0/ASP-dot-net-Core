@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "680675df-4277-4f85-bd4f-5f156ab847dd": {
+      "ProjectGuid": "680675df-4277-4f85-bd4f-5f156ab847dd",
+      "DisplayName": "BookList[MVC-Core3.1]",
+      "ColorIndex": 0
+    },
+    "4d6f4cc7-f359-48de-82a8-0e4209b0324b": {
+      "ProjectGuid": "4d6f4cc7-f359-48de-82a8-0e4209b0324b",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
